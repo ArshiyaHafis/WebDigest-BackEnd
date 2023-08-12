@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-%%sj-*195ulxi-oo0sc8zt9*ofj7s(frs!yl6q6^347f(#w8ow
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ["arshiyahafis-webdigest.hf.space",]
+ALLOWED_HOSTS = ["arshiyahafis-webdigest.hf.space/",]
 
 
 # Application definition
