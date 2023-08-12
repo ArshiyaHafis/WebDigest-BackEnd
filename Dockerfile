@@ -18,4 +18,4 @@ WORKDIR $HOME/app
 
 COPY --chown=user . $HOME/app
 
-CMD ['python', 'drf/manage.py', 'runserver', '0.0.0.0:7860']
+CMD ["python", "drf/manage.py", "runserver", "0.0.0.0:7860"]
