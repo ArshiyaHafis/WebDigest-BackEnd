@@ -1,7 +1,3 @@
-
-![Logo](chandu2.png#gh-light-mode-only)
-![Logo](dk.png#gh-dark-mode-only)
-
 # Table of Contents 
 - [Overview](#overview)
 - [Links](#links)
@@ -59,7 +55,4 @@ The Q&A Browser Extension - PageQuery is an innovative tool that enables you to 
 - Arshiya Hafis - [github](https://github.com/ArshiyaHafis)
 - Chandrakant V B - [github](https://github.com/CVB003)
 
-## Screenshots
-![image 1](im1.jpg)
-![image 2](im2.jpg)
 
